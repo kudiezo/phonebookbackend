@@ -2,7 +2,7 @@
 
 The **Phonebook App** is a simple application that allows users to manage their contacts. Built with modern web technologies, in this app users has ability to add, edit, and delete contacts.
 
-### The app is online in link below
+### The app is online at the link below
 [https://phonebookbackend-htyv.onrender.com/](https://phonebookbackend-htyv.onrender.com/)
 
 ## Features
@@ -27,4 +27,4 @@ The **Phonebook App** is a simple application that allows users to manage their 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/phonebook-app.git
+   git clone https://github.com/kudiezo/phonebookbackend.git
