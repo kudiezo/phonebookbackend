@@ -24,7 +24,7 @@ if(process.argv.length>3) {
     const newName = process.argv[3]
     const newNumber = process.argv[4]
     
-    /** ###### INSERT NEW NOTE TO MongoDB ######## */
+    /** ###### INSERT NEW PERSON TO MongoDB ######## */
     const person = new Person({
         name: newName,
         number: newNumber,
